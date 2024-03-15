@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">STPI CALCULATOR</string>
+    <string name="select">Select</string>
+
+    <!--    String Subject Codes-->
+    <string name="semester_5">Semester 5</string>
+    <string name="_3350701">3350701 - CMT</string>
+    <string name="_3350702">3350702 - DWPD</string>
+    <string name="_3350703">3350703 - JAVA</string>
+    <string name="_3350704">ELECTIVE - 1</string>
+
+    <string name="semester6">Semester 6</string>
+    <string name="_3360701_ajp">3360701 - AJP</string>
+    <string name="elective_2">ELECTIVE - 2</string>
+
+    <string name="version">VERSION 1.3</string>
+    <string name="stpi_formula">STPI Formula</string>
+    <string name="select_branch">Select Branch</string>
+    <string name="computer_engineering">Computer Engineering</string>
+    <string name="mechanical_engineering">Mechanical Engineering</string>
+    <string name="coming_soon">Coming Soon 🙂</string>
+    <string name="civil_engineering">Civil Engineering</string>
+    <string name="electrical_engineering">Electrical Engineering</string>
+    <string name="electrical_and_communication">Electrical and Communication</string>
+    <string name="information_technology">Information Technology</string>
+    <string name="chemical_engineering">Chemical Engineering</string>
+
+
+    <!-- String Array -->
+    <string-array name="GRADE">
+        <item>AA</item>
+        <item>AB</item>
+        <item>BB</item>
+        <item>BC</item>
+        <item>CC</item>
+        <item>CD</item>
+        <item>DD</item>
+        <item>FF</item>
+    </string-array>
+</resources>
